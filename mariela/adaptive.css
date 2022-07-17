@@ -1,0 +1,148 @@
+@media (max-width:800px) {
+    .begin-img {
+        display: none !important;
+    }
+
+    .mariela-begin {
+        height: 400px;
+    }
+
+    .begin-text {
+        position: relative;
+        background: none !important;
+        top: 5%;
+    }
+
+    .work-cards .card {
+        margin-top: 25px;
+    }
+
+    .card {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .container-pos .mid-img {
+        display: none;
+    }
+
+    .mariela-mid {
+        height: 600px;
+        padding-left: 373px;
+    }
+
+    .mariela-mid .mid-text {
+        display: flex;
+        justify-content: center;
+        width: 380px;
+        margin-top: 5%!important;
+    }
+
+    .description img {
+        width: 350px;
+    }
+
+    .collection .collection-img {
+        display: none;
+    }
+
+    .collection {
+        height: 600px;
+        padding-left: 373px;
+    }
+
+    .collection .collection-text {
+        background: none!important;
+    }
+
+    .mariela-mid .mid-text {
+        background: none!important;
+    }
+
+    .desc-img2 {
+        margin-top: 10px;
+    }
+
+    .desc-text {
+        margin-left: 0!important;
+    }
+
+    .form {
+        height: 1000px;
+        width: auto;
+    }
+
+    .rectangle {
+        height: 100%;
+    }
+
+    .end {
+        height: 100%;
+    }
+
+    .input-btn-group {
+        display: block;
+    }
+
+    .icons {
+        margin-left: 30%;
+    }
+     
+    .input1 {
+        display: block!important;
+    }
+
+    .input2 {
+        display: block!important;
+    }
+
+    .main-chapter {
+        margin-left: 0!important;
+    }
+
+    .input-chapter {
+        margin-top: 0!important;
+    }
+
+    .inputv2 {
+        padding-right: 150px!important;
+    }
+
+    .input-s {
+        margin-top: 5%!important;
+        margin-left: 0!important;
+    }
+
+    .input-btn-3 {
+        margin-left: 1%
+    }
+
+    .form {
+        margin-top: 0!important;
+    }
+
+    .arrow-up-icon {
+        margin-top: 0!important;
+        margin-left: 90%!important;
+    }
+
+    .rectangle {
+        width: 100%!important;
+    }
+
+    .icons{
+        max-width: 45%!important;
+    }
+
+    .main-icon {
+        max-width: 100%!important;
+    }
+
+    .mariela-begin {
+         max-width: 400px!important;
+    }
+
+    .begin-text {
+        max-width: 70%;
+    }
+}
